@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchView">
+        <attr name="onColor" format="color"/>
+        <attr name="offColor" format="color"/>
+        <attr name="buttonBgColor" format="color"/>
+        <attr name="switchStatus" format="boolean"/>
+    </declare-styleable>
+</resources>
